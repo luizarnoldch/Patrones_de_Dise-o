@@ -2,7 +2,7 @@
 
 ## 1. Typescript
 
-1. Abstract Factory
-[] Libro
-[] Ejemplo
-2. Factory
+1. Abstract Factory   
+   - [_] Libro   
+   - [_] Ejemplo    
+2. Factory   
