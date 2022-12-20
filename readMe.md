@@ -3,6 +3,8 @@
 ## 1. Typescript
 
 1. Abstract Factory   
-   - [_] Libro   
-   - [_] Ejemplo    
+   - [ ] Libro   
+   - [ ] Ejemplo    
 2. Factory   
+   - [ ] Libro
+   - [ ] Ejemplo
